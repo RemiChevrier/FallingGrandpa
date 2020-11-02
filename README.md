@@ -1,1 +1,1 @@
-FallingGrandpa is an alert application for the falls of the old people. During the accident, the application calculate the speeding and send a notification at the user. According to his answer, the application send a message to the phone numbers recorded with the location of the user.
+FallingGrandpa is an alert application for the falls in older people. During the accident, the application calculate the speeding and send a notification at the user. According to his answer, the application send a message to the phone numbers recorded with the location of the user.
